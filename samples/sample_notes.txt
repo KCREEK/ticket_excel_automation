@@ -1,0 +1,67 @@
+1. T20260101.0001 - Patching Review - HOST-0001    | P3 | In Progress
+===============================================
+Checked the audit trail and found that the installation failed.
+
+Audit trail logs:
+Successful Actions: 0
+Failed Actions: 1
+
+Ran the repair script. NOC will keep monitoring this ticket.
+_____________________________________________________________________________________
+
+2. T20260101.0002 - SOC Alert : Example Threat- 3 - Moderate -  [CS0000001] - Example Corp    | P3 | Assigned
+=======================================================================================================
+Recent Comments
+
+2026-01-01 12:13:57 EDT - Jane Doe Additional comments
+We contacted the customer to review; no failures in the last 12 hours.
+_____________________________________________________________________________________
+
+3. T20260101.0003 - Upgrade Project - Insufficient Disk Space   | P3 | Complete
+================================================================================
+Jane Customer<helpdesk@example.com>
+
+Hi team,
+
+space has been made
+_____________________________________________________________________________________
+
+4. T20260101.0003 - Upgrade Project - Insufficient Disk Space     | P3 | Complete
+================================================================================
+Required space is available. Closing the ticket.
+_____________________________________________________________________________________
+
+5. T20260101.0004 - Alert: Disk on SERVER-A is Failed                     | P2 | Complete
+6. T20260101.0005 - Alert: Disk on SERVER-B is Failed
+7. T20260101.0006 - Alert: CPU on SERVER-C is Failed
+===============================================================
+Device transitioned from failed to warning state. Resolving ticket.
+_____________________________________________________________________________________
+
+8. T20260101.0001 - Patching Review - HOST-0001      | P3 | Assigned
+================================================
+SFC scannow has failed and the device status is online.
+As per the defined matrix, escalating to Tools Team.
+_____________________________________________________________________________________
+______________________________________________________XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX______________________________________________________________________________
+
+9. T20260101.0007 - Alert: Connectivity on SERVER-D is Failed
+===============================================================
+Alert has been cleared from the monitoring tool.
+Hence, resolving this ticket.
+_____________________________________________________________________________________
+
+
+T20260101.0008 - SOC Alert:  Example Detection - Moderate -  [CS0000002] - Example Corp
+
+Reviewed the alert in monitoring tool.
+
+1. Executive Summary
+Potential brute force detected.
+
+2. Recommended Actions
+- Confirm whether the activity is expected.
+As per the defined matrix, escalating to Tier2 Team.
+
+
+
