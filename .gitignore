@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.spec
+.pytest_cache/
+.DS_Store
+
+# Never commit real ticket data
+*.xlsx
+*.xlsm
+backups/
+*.txt
+!requirements*.txt
+!samples/sample_notes.txt
